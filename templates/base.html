@@ -27,14 +27,29 @@
         },
         zoom: 10
       });
-      
-      {% for coord in coordinates %}
-      var latLng = new google.maps.LatLng({{ coord[0] }}, {{ coord[1] }});
-      var marker = new google.maps.Marker({
-        position: latLng,
-        map: map
-      });
+      var bounds = new google.maps.LatLngBounds();
+      {% for prop in properties %}
+        var address = '{{ prop['Address'] }}';
+        var Lat = '{{ prop['Latitude'] }}';
+        var Lng = '{{ prop['Longitude'] }}';
+        var latLng = new google.maps.LatLng(Lat, Lng);
+        var marker = new google.maps.Marker({
+          position: latLng,
+          map: map,
+          title: address
+        });
+        bounds.extend(latLng);
+        var content = '<strong>' + address + '</strong><br><img src="https://maps.googleapis.com/maps/api/streetview?size=400x400&key={{gkey}}&location=' + Lat + ',' + Lng + '">';
+        var infowindow = new google.maps.InfoWindow();
+        google.maps.event.addListener(marker,'click',(function(marker,content,infowindow){
+          return function() {
+            infowindow.setContent(content);
+            infowindow.open(map,marker);
+          };
+        })(marker,content,infowindow));
       {% endfor %}
+      map.fitBounds(bounds);
+      map.setCenter(bounds.getCenter());
     }
   </script>
   <script src="https://maps.googleapis.com/maps/api/js?key={{gkey}}&callback=initMap" async defer></script>
