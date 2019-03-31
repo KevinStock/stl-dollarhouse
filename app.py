@@ -8,6 +8,14 @@ app = Flask(__name__)
 def welcome():
   return render_template('index.html', gkey=gkey, properties=properties)
 
+@app.route('/list')
+def propertyList():
+  return 'List of properties goes here.'
+
+@app.route('/property/<property>')
+def propertyDetail(prop):
+  return 'Property Deatils go here.'
+
 def getProperties():
   data = pd.read_csv("data/properties.csv")
   properties = data.to_dict('records')
