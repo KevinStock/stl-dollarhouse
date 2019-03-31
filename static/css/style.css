@@ -17,6 +17,22 @@ html, body {
 }
 
 nav {
-  height: 100px;
+  height: 50px;
   width: 100%;
+}
+
+nav ul {
+  display: inline-block;
+  list-style: none;
+}
+
+nav li {
+  width: 150px;
+  height: 100%;
+  margin: 10px;
+  
+  background-color: lightgray;
+  text-align: center;
+  border: 1px solid black;
+  float: right;
 }
