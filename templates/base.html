@@ -1,39 +1,43 @@
 <!doctype html>
 <html>
-  
-  <head>
-    <title>STL Dollar House - {% block title %}{% endblock %}</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
-    <meta charset='utf-8'>
-  </head>
-  
-  <body>
-    <nav>
-      <ul>
-        <li>Map</li>
-        <li>List</li>
-      </ul>
-    </nav>
-    {% block content %}{% endblock %}
-    <script>
-  var map;
-  function initMap() {
-    map = new google.maps.Map(document.getElementById('map'), {
-      center: {lat: 38.6272700, lng: -90.1978900},
-      zoom: 10
-    });
-      {% for coord in coordinates %}
-    var latLng = new google.maps.LatLng({{ coord[0] }}, {{ coord[1] }});
-    var marker = new google.maps.Marker({
-      position: latLng,
-      map: map
-    });
-  {% endfor %}
-  }
-      
 
+<head>
+  <title>STL Dollar House - {% block title %}{% endblock %}</title>
+  <link rel="stylesheet" href="https://meyerweb.com/eric/tools/css/reset/reset.css">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  <meta charset='utf-8'>
+</head>
+
+<body>
+  <nav>
+    <ul>
+      <li>Map</li>
+      <li>List</li>
+    </ul>
+  </nav>
+  {% block content %}{% endblock %}
+  <script>
+    // initialize map with markers
+    var map;
+    function initMap() {
+      map = new google.maps.Map(document.getElementById('map'), {
+        center: {
+          lat: 38.6272700,
+          lng: -90.1978900
+        },
+        zoom: 10
+      });
+      
+      {% for coord in coordinates %}
+      var latLng = new google.maps.LatLng({{ coord[0] }}, {{ coord[1] }});
+      var marker = new google.maps.Marker({
+        position: latLng,
+        map: map
+      });
+      {% endfor %}
+    }
   </script>
-  <script src="https://maps.googleapis.com/maps/api/js?key={{gkey}}&callback=initMap"
-  async defer></script>
-  </body>
+  <script src="https://maps.googleapis.com/maps/api/js?key={{gkey}}&callback=initMap" async defer></script>
+</body>
+
 </html>
