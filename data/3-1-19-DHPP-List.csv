@@ -1,0 +1,463 @@
+ParcelID,Address,Ward,Neigh,AssN,Usage,Description,BldgSF,Front,Side1,LotSF,Add#,Street Name
+43870001800,4910 San Francisco Av,1,69,301,Residential,1 Story Brick Residence,"1,127",28,135,"3,170",4910,San Francisco
+44530000400,4864 Palm St,1,55,301,Residential,1 Story Frame Residence,622,20,107.5,"2,457",4864,Palm
+54640000200,4960 Margaretta Av,1,69,301,Residential,2 Story Frame Residence,"1,330",35,118.95,"4,163",4960,Margaretta
+43800300200,4237 N Euclid Av,1,69,302,Residential,2 Story Frame Residence,"1,082",33.33,115,"4,082",4237,Euclid
+43831700610,4122 Clara Pl,1,69,302,Residential,1 Story Frame Residence,560,75,110,"8,193",4122,Clara
+43831702200,4113 Walbridge Pl,1,69,302,Residential,1 Story Frame Residence,630,25,110,"2,750",4113,Walbridge
+43831702400,4107 Walbridge Pl,1,69,302,Residential,1 Story Frame Residence,952,50,110,"3,150",4107,Walbridge
+43903002700,4814 Bessie Av,1,69,302,Residential,1.5 Story Brick Residence,"1,222",30,119,"3,679",4814,Bessie
+43910102800,4877 Carter Av,1,69,302,Residential,2 Story Frame Residence,912,30,120,"3,600",4877,Carter
+54630001000,4936 Farlin Av,1,69,302,Residential,2 Story Frame Residence,"1,184",30,120,"3,600",4936,Farlin
+50910000800,4926 Geraldine Av,1,71,326,Residential,2 Story Frame Residence,970,33.33,127.5,"4,388",4926,Geraldine
+50800001600,5452 Geraldine Av,1,71,327,Residential,2 Story Frame Residence,"1,440",30,127.5,"3,825",5452,Geraldine
+50810001300,5448 Union Blvd,1,71,327,Residential,1 Story Frame Residence,957,33.33,127.5,"3,961",5448,Union
+50810001800,5462 Union Blvd,1,71,327,Residential,1 Story Brick Residence,760,25,127.5,"2,827",5462,Union
+50840001000,5334 Union Blvd,1,71,327,Residential,1.5 Story Frame Residence,"1,197",25,127.5,"3,188",5334,Union
+50840002100,5370 Union Blvd,1,71,327,Residential,1 Story Brick Residence,880,25,127.5,"3,187",5370,Union
+50840004200,5321 Geraldine Av,1,71,327,Residential,1 Story Frame Residence,920,25,127.5,"3,211",5321,Geraldine
+50850000300,5306 Geraldine Av,1,71,327,Residential,2 Story Frame Residence,"1,488",25,127.5,"3,237",5306,Geraldine
+50860002100,5064 Geraldine Av,1,71,327,Residential,1 Story Frame Residence,721,25,127.5,"3,113",5064,Geraldine
+50860002200,5066 Geraldine Av,1,71,327,Residential,1 Story Frame Residence,782,25,127.5,"3,230",5066,Geraldine
+50870001100,5028 Union Blvd,1,71,327,Residential,1 Story Brick Residence,917,25,128,"3,054",5028,Union
+50870002700,5072 Union Blvd,1,71,327,Residential,2 Story Frame Residence,990,30,128,"3,840",5072,Union
+50880000800,5030 Claxton Av,1,71,327,Residential,1 Story Brick Residence,702,29,125,"3,467",5030,Claxton
+50880003500,5091 Union Blvd,1,71,327,Residential,2 Story Frame Residence,"1,080",25,120.6,"2,770",5091,Union
+52610001000,4949 Harney Av,1,71,329,Residential,1 Story Frame Residence,"1,120",50,112.5,"5,479",4949,Harney
+52610004500,5407 N Euclid Av,1,71,329,Residential,1 Story Frame Residence,"1,176",30,125,"3,719",5407,Euclid
+52620002700,4966 Harney Av,1,71,329,Residential,1 Story Frame Residence,722,25,112.5,"2,812",4966,Harney
+54660000200,4917 Ashby Av,1,71,329,Residential,2 Story Frame Residence,945,30,112.5,"3,375",4917,Ashby
+54660000700,4935 Ashby Av,1,71,329,Residential,2 Story Frame Residence,"1,088",25,112.6,"2,848",4935,Ashby
+44980001700,5239 Terry Av,1,52,343,Residential,1 Story Brick Residence,970,25.16,142.5,"3,576",5239,Terry
+44980001800,5243 Terry Av,1,52,343,Residential,1 Story Brick Residence,867,31.1,142.5,"4,432",5243,Terry
+44990500600,5206 St Louis Av,1,52,343,Residential,1 Story Brick Residence,852,27.5,137.5,"3,781",5206,St Louis
+44990501400,5140 St Louis Av,1,52,343,Residential,1 Story Brick Residence,"1,012",33.33,137,"5,295",5140,St Louis
+45000100400,5044 Terry Av,1,52,343,Residential,1 Story Brick Residence,990,25,150,"3,731",5044,Terry
+45030500200,5260 Maffitt Av,1,52,343,Residential,1 Story Brick Residence,950,27.5,134.5,"3,076",5260,Maffitt
+50280000200,5256 Terry Av,1,52,343,Residential,1 Story Brick Residence,912,30,150,"4,369",5256,Terry
+50280000800,5238 Terry Av,1,52,343,Residential,1 Story Brick Residence,996,28,142.5,"3,975",5238,Terry
+50280003200,2812 Union Blvd,1,52,343,Residential,1 Story Brick Residence,858,25,135,"3,172",2812,Union
+45190102400,3321 William Pl,1,50,344,Residential,1.5 Story Frame Residence,882,25,109,"2,533",3321,William
+52470002000,5321 Labadie Av,1,50,344,Residential,2.5 Story Frame Residence,"1,320",40,133,"5,320",5321,Labadie
+42880002400,8917 Newby St,2,74,333,Residential,1 Story Frame Residence,"1,005",25,127.5,"3,187",8917,Newby
+54330002100,1100 Howell St,2,74,333,Residential,1 Story Frame Residence,972,56.42,123,"5,274",1100,Howell
+54340000600,8984 Edna St,2,74,333,Residential,1 Story Frame Residence,900,30,127.5,"3,922",8984,Edna
+52760001500,928 Canaan Av,2,74,334,Residential,1 Story Frame Residence,880,70,137.5,"8,803",928,Canaan
+52770000950,942 Elias Av,2,74,334,Residential,1.5 Story Brick Residence,535,30,127.6,"3,931",942,Elias
+53990000600,954 Harlan Av,2,74,334,Residential,1 Story Frame Residence,918,35,127.5,"5,594",954,Harlan
+53990002400,868 Harlan Av,2,74,334,Residential,2 Story Frame Residence,"1,104",25,127.5,"2,658",868,Harlan
+53990002600,864 Harlan Av,2,74,334,Residential,1 Story Brick Residence,"1,188",50,127.5,"6,244",864,Harlan
+53990003100,845 Elias Av,2,74,334,Residential,1.5 Story Frame Residence,"1,440",40,127.5,"5,383",845,Elias
+53990005700,979 Elias Av,2,74,334,Residential,1.5 Story Frame Residence,"1,049",42,127.5,"5,519",979,Elias
+54010001200,8653 N Broadway,2,74,334,Residential,1 Story Frame Residence,714,25,120,"3,000",8653,Broadway
+56370003400,8511 N Broadway,2,74,334,Residential,1 Story Brick Residence,940,30,115,"3,450",8511,Broadway
+56370003500,8509 N Broadway,2,74,334,Residential,1 Story Brick Residence,928,30,115,"3,366",8509,Broadway
+42500000600,1034 Gimblin St,2,74,335,Residential,2 Story Frame Residence,"1,184",50,150,"7,500",1034,Gimblin
+54310001400,1026 Garth Av,2,74,335,Residential,1 Story Brick Residence,940,26.7,158.1,"3,938",1026,Garth
+54310001800,1016 Garth Av,2,74,335,Residential,2 Story Frame Residence,"1,377",25,145.5,"2,634",1016,Garth
+42300001100,7861 Hall St,2,74,336,Residential,1 Story Frame Residence,"1,179",36.7,94.48,"2,911",7861,Hall
+42930002200,8425 Lowell St,2,74,336,Residential,1 Story Concrete Block Residence,705,28.1,107.1,"2,219",8425,Lowell
+42930003500,8426 Lowell La,2,74,336,Residential,1 Story Frame Residence,630,57.5,107.33,"6,169",8426,Lowell
+42930003900,8442 Lowell La,2,74,336,Residential,1 Story Concrete Block Residence,512,28.83,107.83,"3,118",8442,Lowell
+42930004000,8446 Lowell La,2,74,336,Residential,1 Story Concrete Block Residence,512,28.83,107.83,"2,335",8446,Lowell
+42930004100,8450 Lowell La,2,74,336,Residential,1 Story Concrete Block Residence,512,28.83,107.75,"2,384",8450,Lowell
+60190000700,8432 Lowell St,2,74,336,Residential,1 Story Brick Residence,"1,088",40,200,"8,000",8432,Lowell
+48720002400,3729 Maffitt Av,3,59,309,Residential,2 Story Brick Residence,"1,184",25,140,"3,500",3729,Maffitt
+23900000300,3642 Hebert St,3,59,310,Residential,1 Story Brick Residence,"1,074",25,162.18,"3,921",3642,Hebert
+23910002000,3641 Hebert St,3,59,310,Residential,1 Story Brick Residence,967,25,162,"3,913",3641,Hebert
+24870001800,4246 Gano Av,3,67,311,Residential,1 Story Brick Residence,"1,089",25,107.5,"2,806",4246,Gano
+24880000300,3736 Penrose St,3,67,311,Residential,1 Story Frame Residence,603,35,102.58,"3,428",3736,Penrose
+33540001200,4230 Desoto Av,3,67,311,Residential,1 Story Brick Residence,943,25,120,"2,909",4230,Desoto
+33540002800,4241 Prairie Av,3,67,311,Residential,2 Story Frame Residence,"1,286",20,120,"2,325",4241,Prairie
+33540003400,4227 Prairie Av,3,67,311,Residential,2 Story Brick Residence,"1,302",50,120,"6,025",4227,Prairie
+33540003600,4219 Prairie Av,3,67,311,Residential,1 Story Brick Residence,666,25,120,"2,787",4219,Prairie
+33560003100,4349 Desoto Av,3,67,311,Residential,1 Story Frame Residence,834,25,120,"3,000",4349,Desoto
+33940002800,4347 Linton Av,3,67,311,Residential,1 Story Brick Residence,720,25,120,"3,000",4347,Linton
+35780001000,3810 Penrose St,3,67,311,Residential,2 Story Frame Residence,"1,414",25,108,"2,700",3810,Penrose
+35870006400,3917 Sherman Pl,3,67,311,Residential,1 Story Brick Residence,799,25,110,"2,726",3917,Sherman
+24740000700,1532 John Av,3,66,312,Residential,3 Story Brick Residence,"1,496",29,110,"3,070",1532,John
+24760000500,2034 Gano Av,3,66,312,Residential,1 Story Brick Residence,774,25,110,"2,750",2034,Gano
+33080000200,2144 E Prairie Av,3,66,312,Residential,1.5 Story Brick Residence,833,50,112.15,"5,139",2144,Prairie
+33080001800,2115 Gano Av,3,66,312,Residential,2 Story Frame Residence,"1,134",25,112.5,"2,813",2115,Gano
+33090003200,2041 Gano Av,3,66,312,Residential,1 Story Brick Residence,"1,065",25,112.51,"2,812",2041,Gano
+33100001200,1826 E Prairie Av,3,66,312,Residential,1 Story Brick Residence,990,25,112.5,"2,658",1826,Prairie
+24120001400,4015 N 11th St,3,65,313,Residential,2 Story Brick Residence,"1,438",25,115,"2,884",4015,11th
+24120001500,4011 N 11th St,3,65,313,Residential,2 Story Brick Residence,"1,370",30,115,"3,450",4011,11th
+24120001700,4005 N 11th St,3,65,313,Residential,2 Story Brick Residence,"1,460",25,115,"2,875",4005,11th
+24320000600,4318 Strodtman Pl,3,66,313,Residential,2 Story Brick Residence,"1,312",25,117.5,"2,883",4318,Strodtman
+24320000700,4320 Strodtman Pl,3,66,313,Residential,1 Story Brick Residence,640,25,117.5,"2,937",4320,Strodtman
+24350001000,4234 N Florissant Av,3,65,313,Residential,1.5 Story Brick Residence,841,25,105,"2,625",4234,Florissant
+24360000900,4248 N 21st St,3,65,313,Residential,1 Story Brick Residence,850,25,136.75,"3,352",4248,21st
+24430000800,4320 19th St,3,66,313,Residential,1 Story Brick Residence,850,25,130,"3,264",4320,19th
+24430001200,4330 19th St,3,66,313,Residential,1 Story Frame Residence,985,25,130,"3,157",4330,19th
+24430001400,4336 19th St,3,66,313,Residential,1 Story Frame Residence,760,25,130,"3,339",4336,19th
+24430004900,4329 Blair Av,3,66,313,Residential,2 Story Brick Residence,"1,376",25,131.5,"6,832",4329,Blair
+24460000500,1417 Bissell St,3,66,313,Residential,1 Story Brick Residence,900,29.5,100,"2,889",1417,Bissell
+19460000800,4117 Glasgow Av,3,67,314,Residential,2 Story Brick Residence,"1,464",25,87.42,"2,186",4117,Glasgow
+23990000500,4020 Glasgow Av,3,65,314,Residential,1 Story Brick Residence,626,25,106.8,"2,903",4020,Glasgow
+23990000600,4022 Glasgow Av,3,65,314,Residential,1 Story Brick Residence,626,25,106.2,"2,656",4022,Glasgow
+23990002100,4003 25th St,3,65,314,Residential,2 Story Brick Residence,"1,472",18.5,127.5,"2,358",4003,25th
+24020001700,4021 N Florissant Av,3,65,314,Residential,2 Story Brick Residence,"1,358",25,139.5,"3,488",4021,Florissant
+24020002400,4001 N Florissant Av,3,65,314,Residential,2 Story Frame Residence,"1,296",25,139.5,"3,488",4001,Florissant
+24290001800,4225 Peck St,3,67,314,Residential,1 Story Brick Residence,"1,209",40,112.5,"4,500",4225,Peck
+24290002300,4209 Peck St,3,67,314,Residential,1 Story Brick Residence,908,27,112.5,"3,037",4209,Peck
+18900003400,2441 Laflin St,3,59,316,Residential,1 Story Brick Residence,660,25,120,"3,000",2441,Laflin
+10730001500,2521 W Sullivan Av,3,60,317,Residential,1 Story Brick Residence,990,25,144,"3,990",2521,Sullivan
+11400000300,1916 Palm St,3,63,341,Residential,2 Story Brick Residence,"1,464",25,147.04,"3,638",1916,Palm
+11580000400,2010 Branch St,3,65,341,Residential,1.5 Story Brick Residence,705,48.07,30,"1,431",2010,Branch
+11600000900,2103 Branch St,3,65,341,Residential,1 Story Brick Residence,760,25.43,135.25,"2,965",2103,Branch
+11600001200,2111 Branch St,3,65,341,Residential,1 Story Brick Residence,760,51.9,65.14,"3,318",2111,Branch
+11680001850,2017 Destrehan St,3,65,341,Residential,1.5 Story Frame Residence,940,39,100,"3,900",2017,Destrehan
+11680002100,2023 Destrehan St,3,65,341,Residential,1.5 Story Frame Residence,891,26,100,"2,600",2023,Destrehan
+11720500200,1926 Destrehan St,3,65,341,Residential,1 Story Brick Residence,895,35,93,"3,255",1926,Destrehan
+11720501500,1919 Agnes St,3,65,341,Residential,1 Story Brick Residence,704,29,93,"2,639",1919,Agnes
+11720600600,1916 Agnes St,3,65,341,Residential,1 Story Brick Residence,704,29,93,"2,697",1916,Agnes
+11720601900,1923 Angelrodt St,3,65,341,Residential,1 Story Frame Residence,936,30,92.8,"2,805",1923,Angelrodt
+11730600200,1922 Garden St,3,65,341,Residential,1 Story Brick Residence,773,30,84.5,"2,489",1922,Garden
+11810601400,1507 Angelrodt St,3,65,341,Residential,2 Story Frame Residence,887,25.83,93.83,"2,424",1507,Angelrodt
+37740302900,4524 Evans Av,4,54,234,Residential,2 Story Brick Residence,"1,276",25,153,"3,825",4524,Evans
+37760002600,4549 Evans Av,4,54,234,Residential,1 Story Brick Residence,788,25,140,"3,500",4549,Evans
+37100202600,3009 N Taylor Av,4,56,307,Residential,1 Story Brick Residence,"1,116",26.5,145,"4,770",3009,Taylor
+37100204900,4627 Labadie Av,4,56,307,Residential,1 Story Brick Residence,"1,032",24,160,"4,112",4627,Labadie
+44490100100,4620 Lexington Av,4,56,307,Residential,1 Story Brick Residence,748,27.37,182.06,"5,426",4620,Lexington
+44490102100,3512 Cora Av,4,56,307,Residential,1 Story Brick Residence,"1,035",29.5,97.92,"2,864",3512,Cora
+44620503800,4515 Elmbank Av,4,56,307,Residential,1 Story Brick Residence,864,21.21,128.5,"3,251",4515,Elmbank
+44800002400,4770 Greer Av,4,55,307,Residential,1 Story Stucco Residence,"1,057",25,155,"4,269",4770,Greer
+44800005300,4729 Labadie Av,4,55,307,Residential,2 Story Brick Residence,"1,494",25,150,"3,125",4729,Labadie
+37120001600,4637 Maffitt Av,4,56,308,Residential,1 Story Brick Residence,966,25,145,"3,625",4637,Maffitt
+37120001700,4639 Maffitt Av,4,56,308,Residential,2 Story Brick Residence,"1,024",25,145,"3,625",4639,Maffitt
+37120002100,4649 Maffitt Av,4,56,308,Residential,1 Story Brick Residence,794,26,145,"3,920",4649,Maffitt
+37130002400,4633 Kennerly Av,4,56,308,Residential,2 Story Brick Residence,"1,496",25,145,"3,625",4633,Kennerly
+37800002600,4738 Leduc St,4,55,308,Residential,1 Story Brick Residence,"1,166",33.83,236.58,"8,018",4738,Leduc
+44710000300,4654 Cottage Av,4,56,308,Residential,1 Story Brick Residence,"1,058",27.1,130.03,"3,412",4654,Cottage
+44720001300,4634 St Ferdinand Av,4,56,308,Residential,1 Story Brick Residence,940,29,130.5,"4,251",4634,St Ferdinand
+44780000800,4816 Maffitt Av,4,55,308,Residential,1 Story Brick Residence,990,25,133,"3,325",4816,Maffitt
+44780004900,4733 Northland Av,4,55,308,Residential,2 Story Brick Residence,"1,496",25,123,"3,075",4733,Northland
+44780005200,4741 Northland Av,4,55,308,Residential,2 Story Brick Residence,"1,300",20,133,"2,660",4741,Northland
+44780005400,4747 Northland Av,4,55,308,Residential,2 Story Brick Residence,"1,496",24,133,"3,192",4747,Northland
+44780005800,4757 Northland Av,4,55,308,Residential,1 Story Brick Residence,990,25,133.42,"3,106",4757,Northland
+44780006500,4803 Northland Av,4,55,308,Residential,2 Story Brick Residence,"1,496",25,133,"3,503",4803,Northland
+44780007000,4813 Northland Av,4,55,308,Residential,2 Story Brick Residence,"1,496",25,133,"2,823",4813,Northland
+18700000400,3730 Garfield Av,4,59,309,Residential,1 Story Brick Residence,"1,211",30.5,120,"3,660",3730,Garfield
+18790000900,3630 Garfield Av,4,59,309,Residential,1 Story Brick Residence,"1,100",25,120,"3,000",3630,Garfield
+36380000200,3958 Cote Brilliante Av,4,56,309,Residential,1 Story Brick Residence,"1,034",50,128.8,"6,259",3958,Cote Brilliante
+36400000200,3966 North Market St,4,56,309,Residential,1 Story Brick Residence,640,25,123,"2,439",3966,North Market
+36400000400,3960 North Market St,4,56,309,Residential,1 Story Brick Residence,640,25,123.66,"3,130",3960,North Market
+36440200500,3918 Kennerly Av,4,56,309,Residential,2 Story Brick Residence,"1,440",25,100,"2,500",3918,Kennerly
+36560000300,4052 Garfield Av,4,56,309,Residential,1 Story Brick Residence,"1,136",25,116.23,"2,844",4052,Garfield
+36610000900,1722 Whittier St,4,57,309,Residential,2.5 Story Brick Residence,"1,496",25,134.66,"4,008",1722,Whittier
+36610001200,1728 Whittier St,4,57,309,Residential,1 Story Brick Residence,832,50,134.66,"6,702",1728,Whittier
+36790000600,4224 Garfield Av,4,57,309,Residential,1 Story Brick Residence,612,25,132,"3,434",4224,Garfield
+36800001800,4211 Aldine Av,4,57,309,Residential,1 Story Brick Residence,969,25,132,"3,076",4211,Aldine
+36820002000,4218 W Aldine Av,4,57,309,Residential,1 Story Brick Residence,"1,078",25,126.09,"3,844",4218,Aldine
+36830001400,4230 W Cote Brilliante Av,4,57,309,Residential,1 Story Brick Residence,"1,152",29,132,"4,355",4230,Cote Brilliante
+36830004900,4279 W Aldine Av,4,57,309,Residential,1 Story Brick Residence,836,25,132,"3,358",4279,Aldine
+36840003600,4249 W Cote Brilliante Av,4,57,309,Residential,1 Story Brick Residence,"1,059",28,137.66,"3,945",4249,Cote Brilliante
+36850001400,4244 W North Market St,4,57,309,Residential,1 Story Brick Residence **,587,25,130.6,"3,209",4244,North Market
+36850003800,4227 W Garfield Av,4,57,309,Residential,1 Story Brick Residence,782,25,130.5,"3,263",4227,Garfield
+36850003900,4229 W Garfield Av,4,57,309,Residential,1 Story Brick Residence,740,25,130.5,"3,315",4229,Garfield
+36850004400,4243 W Garfield Av,4,57,309,Residential,1 Story Brick Residence,538,25,130.5,"3,268",4243,Garfield
+36850005900,4279 W Garfield Av,4,57,309,Residential,1 Story Brick Residence,915,27.6,130.6,"3,551",4279,Garfield
+36920003300,4345 Kennerly Av,4,57,309,Residential,1 Story Frame Residence **,783,25,145,"3,625",4345,Kennerly
+36920004700,2710 N Newstead Av,4,57,309,Residential,2 Story Frame Residence,790,20,99.5,"1,990",2710,Newstead
+36950002100,4317 North Market St,4,57,309,Residential,2 Story Frame Residence,"1,212",25,130.5,"3,731",4317,North Market
+36950003500,4361 North Market St,4,57,309,Residential,1 Story Brick Residence,880,25,130.6,"3,178",4361,North Market
+36980004500,4357 Aldine Av,4,57,309,Residential,1 Story Brick Residence,"1,012",26,132,"3,112",4357,Aldine
+37030003300,4435 Garfield Av,4,57,309,Residential,1 Story Brick Residence,902,25,130.06,"3,225",4435,Garfield
+37040001800,4406 St Ferdinand Av,4,57,309,Residential,1 Story Frame Residence **,800,20,130.5,"2,703",4406,St Ferdinand
+37140001100,4602 St Louis Av,4,56,309,Residential,2 Story Brick Residence,"1,152",25,153.06,"3,422",4602,St Louis
+37140004500,4559 Maffitt Av,4,56,309,Residential,1 Story Brick Residence,852,25,145,"3,625",4559,Maffitt
+37170002500,4530 Cottage Av,4,56,309,Residential,1 Story Brick Residence,990,25,130.83,"3,272",4530,Cottage
+37170002600,4528 Cottage Av,4,56,309,Residential,1 Story Brick Residence,990,25,130.81,"3,272",4528,Cottage
+37170005700,4575 St Ferdinand Av,4,56,309,Residential,1 Story Frame Residence,720,25,130.83,"3,270",4575,St Ferdinand
+37180000700,4592 St Ferdinand Av,4,56,309,Residential,2 Story Brick Residence,"1,408",32.5,130.5,"4,233",4592,St Ferdinand
+37200003800,4525 Cote Brilliante Av,4,56,309,Residential,2 Story Brick Residence,"1,350",25,130.5,"3,213",4525,Cote Brilliante
+37200004200,4537 Cote Brilliante Av,4,56,309,Residential,2 Story Brick Residence,"1,380",35,130.6,"3,921",4537,Cote Brilliante
+37230000800,4574 Aldine Av,4,56,309,Residential,2 Story Frame Residence,"1,080",50.5,126.5,"6,388",4574,Aldine
+36230001700,3120 Whittier St,4,56,310,Residential,1 Story Brick Residence,888,27.92,125.16,"3,377",3120,Whittier
+36240004200,3111 N Sarah St,4,56,310,Residential,1 Story Brick Residence,987,33.33,115.5,"3,846",3111,Sarah
+44400703600,4145 Ashland Av,4,56,310,Residential,1 Story Brick Residence,945,25,169,"4,225",4145,Ashland
+44410702500,4127 Lexington Av,4,56,310,Residential,1 Story Frame Residence,769,25,179,"4,430",4127,Lexington
+44410702700,4131 Lexington Av,4,56,310,Residential,1 Story Brick Residence,756,25,179,"4,475",4131,Lexington
+44410800950,4103 W Lexington Av,4,56,310,Residential,1 Story Frame Residence,960,19.25,178.18,"3,515",4103,Lexington
+44410902600,4251 Lexington Av,4,56,310,Residential,1 Story Brick Residence,773,30,180,"5,400",4251,Lexington
+44410902700,4253 Lexington Av,4,56,310,Residential,1.5 Story Brick Residence,"1,380",25,180,"4,500",4253,Lexington
+44670300600,3034 Rolla Pl,4,56,310,Residential,1 Story Brick Residence,967,25,110,"2,368",3034,Rolla
+44670301100,3048 Rolla Pl,4,56,310,Residential,1 Story Brick Residence,638,25,110,"2,750",3048,Rolla
+44670305000,3043 Whittier St,4,56,310,Residential,1 Story Brick Residence,638,25,118.7,"2,967",3043,Whittier
+44670400800,3038 New Ashland Pl,4,56,310,Residential,1 Story Frame Residence,742,25,126.92,"3,564",3038,New Ashland
+44670401300,3100 New Ashland Pl,4,56,310,Residential,1 Story Frame Residence,742,35,126.92,"4,413",3100,New Ashland
+44670404300,3107 Rolla Pl,4,56,310,Residential,1 Story Brick Residence,886,25,110,"2,750",3107,Rolla
+44670404500,3051 Rolla Pl,4,56,310,Residential,1 Story Brick Residence,798,25,110,"2,750",3051,Rolla
+44670405000,3039 Rolla Pl,4,56,310,Residential,1 Story Brick Residence,"1,012",50,110,"5,415",3039,Rolla
+36200000100,3000 Vine Grove Av,4,56,320,Residential,2 Story Brick Residence,"1,350",27.66,95.42,"2,486",3000,Vine Grove
+36200001000,3030 Vine Grove Av,4,56,320,Residential,2.5 Story Brick Residence,"1,350",25,190,"5,280",3030,Vine Grove
+36200001300,3038 Vine Grove Av,4,56,320,Residential,1 Story Brick Residence,680,25,200,"3,835",3038,Vine Grove
+36200002600,4326 Ashland Av,4,56,320,Residential,1 Story Brick Residence,860,24,100,"2,400",4326,Ashland
+36200004100,3049 Clarence Av,4,56,320,Residential,1 Story Brick Residence,586,52.5,89.63,"4,210",3049,Clarence
+36200004300,3037 Clarence Av,4,56,320,Residential,2 Story Brick and Frame Residence,"1,440",70,89.65,"6,274",3037,Clarence
+44650003000,3117 Marnice Pl,4,56,320,Residential,1 Story Brick Residence,760,30,89.65,"2,474",3117,Marnice
+15140001000,2750 Utah St,9,30,143,Residential,2 Story Brick Residence,"1,472",26,125,"3,120",2750,Utah
+37900002600,5030 Ridge Av,18,51,238,Residential,2 Story Brick Residence,"1,408",25,115.5,"2,804",5030,Ridge
+37900002900,5022 Ridge Av,18,51,238,Residential,2.5 Story Brick Residence,"1,408",25,112,"2,846",5022,Ridge
+37900005000,5065 Minerva Av,18,51,238,Residential,2.5 Story Brick Residence,"1,408",25,132,"3,300",5065,Minerva
+16360000200,3644 Oregon Av,20,19,141,Residential,1 Story Brick Residence,796,25,134.75,"3,369",3644,Oregon
+16560002700,3823 Missouri Av,20,18,145,Residential,1 Story Brick Residence,800,25,115,"2,875",3823,Missouri
+16560003500,3843 Missouri Av,20,18,145,Residential,1.5 Story Frame Residence,680,30,115,"3,450",3843,Missouri
+44060300600,4028 Cora Av,21,69,302,Residential,1 Story Brick Residence,"1,087",40,136.83,"5,476",4028,Cora
+56690001300,4042 Dryden Av,21,69,302,Residential,2 Story Brick Residence,"1,220",25,102.62,"4,185",4042,Dryden
+56690002800,4011 N Taylor Av,21,69,302,Residential,1 Story Brick Residence,"1,025",28.33,102,"2,889",4011,Taylor
+35580000100,4508 N Newstead Av,21,69,303,Residential,2 Story Brick Residence,"1,368",101.5,118.3,"12,600",4508,Newstead
+35460000600,4514 Alice Av,21,68,305,Residential,1 Story Brick Residence,"1,138",29,125,"3,625",4514,Alice
+35660002200,4117 W Penrose St,21,68,305,Residential,1 Story Brick Residence,756,25,140,"3,863",4117,Penrose
+35660002500,4123 W Penrose St,21,68,305,Residential,1 Story Brick Residence,656,25,140,"3,828",4123,Penrose
+35730302800,4214 Penrose St,21,68,305,Residential,1 Story Brick Residence,796,25,101,"2,525",4214,Penrose
+35730302900,4212 Penrose St,21,68,305,Residential,1 Story Brick Residence,968,25,101.08,"2,527",4212,Penrose
+35730303700,4146 W Penrose St,21,68,305,Residential,2 Story Frame Residence,"1,116",25,101,"2,525",4146,Penrose
+35730304000,4138 W Penrose St,21,68,305,Residential,1.5 Story Frame Residence,869,30,101,"3,030",4138,Penrose
+35730304400,4126 W Penrose St,21,68,305,Residential,1 Story Brick Residence,680,30,101,"3,030",4126,Penrose
+35730304600,4120 W Penrose St,21,68,305,Residential,2 Story Brick Residence,636,25,101.08,"2,525",4120,Penrose
+35730306200,4133 W Lee Av,21,68,305,Residential,1.5 Story Frame Residence,918,30,101,"3,033",4133,Lee
+35730400700,4370 Penrose St,21,68,305,Residential,1.5 Story Brick Residence,660,25,101.08,"2,525",4370,Penrose
+35760002500,4021 Lee Av,21,68,305,Residential,1 Story Brick Residence,"1,104",33.33,108.58,"3,430",4021,Lee
+35960000500,4126 Hull Pl,21,68,305,Residential,1 Story Frame Residence,595,25,131.83,"3,378",4126,Hull
+35970001800,4117 Hull Pl,21,68,305,Residential,2 Story Frame Residence,833,25,131.83,"3,025",4117,Hull
+44110100700,4452 Kossuth Av,21,69,305,Residential,2 Story Brick and Frame Residence,"1,125",50,106.16,"5,048",4452,Kossuth
+44110104600,4032 Camellia Av,21,69,305,Residential,1 Story Brick Residence,"1,045",50,117,"5,850",4032,Camellia
+44120302200,4424 Lee Av,21,69,305,Residential,2 Story Brick Residence,"1,344",25,173.7,"3,984",4424,Lee
+44120305000,4453 Kossuth Av,21,69,305,Residential,1 Story Brick Residence,784,25,158,"3,317",4453,Kossuth
+44130000200,4496 Penrose St,21,69,305,Residential,1.5 Story Brick Residence,"1,164",28.5,101.08,"2,705",4496,Penrose
+44130000300,4494 Penrose St,21,69,305,Residential,1.5 Story Brick Residence,"1,164",28.5,101.1,"2,892",4494,Penrose
+44130005100,4437 Lee Av,21,69,305,Residential,1 Story Brick Residence,946,25.7,101,"2,599",4437,Lee
+44130006300,4463 Lee Av,21,69,305,Residential,1 Story Brick Residence,"1,001",27.5,101.08,"2,777",4463,Lee
+44160500800,4450 Carter Av,21,69,305,Residential,1 Story Brick Residence,"1,104",35,200,"7,000",4450,Carter
+44160502800,4429 Anderson Av,21,69,305,Residential,1 Story Frame Residence,796,25,200,"4,861",4429,Anderson
+44161600900,4460 Anderson Av,21,69,305,Residential,1 Story Brick Residence,917,50,108.5,"5,262",4460,Anderson
+44161601100,4452 Anderson Av,21,69,305,Residential,2 Story Brick Residence,"1,026",37.6,108.1,"4,232",4452,Anderson
+44161604200,4455 Bessie Av,21,69,305,Residential,2 Story Frame Residence,"1,089",45,108,"4,860",4455,Bessie
+44161701200,4464 Bessie Av,21,69,305,Residential,1 Story Brick Residence,924,25,108.6,"2,489",4464,Bessie
+44161704100,4431 Penrose St,21,69,305,Residential,1 Story Brick Residence,990,25,107.9,"2,667",4431,Penrose
+44161704200,4433 Penrose St,21,69,305,Residential,1.5 Story Brick Residence,"1,168",25,108,"2,419",4433,Penrose
+44161705400,4465 Penrose St,21,69,305,Residential,1 Story Brick Residence,"1,219",40,108.6,"4,254",4465,Penrose
+44170000800,4450 N Taylor Av,21,69,305,Residential,1 Story Frame Residence,"1,152",50,127.6,"5,611",4450,Taylor
+44250001600,4125 Turner Av,21,68,305,Residential,1 Story Brick Residence,"1,034",25,115,"2,875",4125,Turner
+44260300500,4124 Rush Pl,21,68,305,Residential,1 Story Brick Residence,660,25,129.16,"3,228",4124,Rush
+44260300800,4262 Lee Av,21,68,305,Residential,2 Story Frame Residence,"1,110",25,125,"3,454",4262,Lee
+44260301300,4248 Lee Av,21,68,305,Residential,1 Story Brick Residence,"1,034",25,125,"3,125",4248,Lee
+44270000600,4122 Red Bud Av,21,68,305,Residential,2 Story Frame Residence,954,25,125,"3,255",4122,Red Bud
+44270000700,4124 Red Bud Av,21,68,305,Residential,2 Story Frame Residence,"1,113",25,125,"3,125",4124,Red Bud
+48950000500,4120 W Carter Av,21,68,305,Residential,2 Story Frame Residence,"1,030",27.6,144.7,"4,032",4120,Carter
+50370002400,4237 W Margaretta Av,21,68,305,Residential,1 Story Frame Residence,858,36.01,107.75,"3,879",4237,Margaretta
+50380001600,4257 Margaretta Av,21,68,305,Residential,1 Story Brick Residence,882,25,107.5,"2,687",4257,Margaretta
+55950000600,4028 N Taylor Av,21,69,305,Residential,1 Story Brick Residence,"1,125",29.66,104.5,"3,048",4028,Taylor
+55950002700,4015 Camellia Av,21,69,305,Residential,1 Story Brick Residence,862,25,100,"2,500",4015,Camellia
+44290000600,4152 Lee Av,21,68,306,Residential,2 Story Frame Residence,846,25,120,"3,000",4152,Lee
+44290002400,4138 Lea Pl,21,68,306,Residential,1 Story Brick and Frame Residence,"1,008",25,109,"2,725",4138,Lea
+44460400200,4476 Natural Bridge Av,21,56,307,Residential,1 Story Brick Residence,"1,248",30,130,"3,913",4476,Natural Bridge
+44510000907,3611-3 Marcus Av,21,55,307,Residential,1 Story Stone Residence,"1,096",55,90,"4,625",3611,Marcus
+33920000300,5212 Emily St,21,66,312,Residential,1 Story Frame Residence,640,50,137.5,"6,875",5212,Emily
+33930002700,2151 Linton Av,21,66,312,Residential,1 Story Brick Residence,"1,034",25.12,144,"3,472",2151,Linton
+33980002100,2151 E College Av,21,66,312,Residential,1 Story Brick Residence,"1,095",25,152.12,"3,802",2151,College
+33990005400,2103 E College Av,21,66,312,Residential,2 Story Brick Residence,"1,410",50,162,"8,742",2103,College
+33990006300,2127-9 E College Av,21,66,312,Residential,1 Story Brick Residence,"1,134",50,164.5,"8,225",2127,College
+35440000800,2124 Alice Av,21,68,312,Residential,1 Story Brick Residence,988,25,0,"3,446",2124,Alice
+38070801900,1393 Belt Av,22,78,239,Residential,2 Story Brick Residence,"1,496",25,118.54,"3,047",1393,Belt
+38070902600,1367 Montclair Av,22,78,239,Residential,2 Story Brick Residence,"1,446",25,119.64,"2,990",1367,Montclair
+38170701600,1398 Blackstone Av,22,78,239,Residential,2 Story Brick Residence,"1,472",40.08,119.58,"4,114",1398,Blackstone
+38170900700,1374 Goodfellow Blvd,22,78,239,Residential,2.5 Story Brick Residence,"1,452",25,119.08,"2,975",1374,Goodfellow
+38210002100,1411 Laurel St,22,78,239,Residential,2 Story Brick Residence,"1,320",25,133.33,"3,332",1411,Laurel
+38210002300,5835 Ridge Av,22,78,239,Residential,2 Story Brick Residence,"1,225",35.88,91.88,"3,210",5835,Ridge
+38210300100,1410 Laurel St,22,78,239,Residential,1 Story Brick Residence,"1,175",30,134.32,"3,042",1410,Laurel
+45130103300,5331 Theodosia Av,22,50,344,Residential,2 Story Frame Residence,"1,446",25,138.92,"3,369",5331,Theodosia
+45140000800,5350 Lotus Av,22,50,344,Residential,1 Story Brick Residence,880,25,123.25,"3,080",5350,Lotus
+45140001100,5342 Lotus Av,22,50,344,Residential,1 Story Brick Residence,"1,243",25,123,"3,075",5342,Lotus
+45140002000,5320 Lotus Av,22,50,344,Residential,1 Story Brick Residence,"1,035",25,123.25,"3,081",5320,Lotus
+45140002100,5318 Lotus Av,22,50,344,Residential,1 Story Brick Residence,"1,057",25,123.25,"3,075",5318,Lotus
+45140003800,5347 Cote Brilliante Av,22,50,344,Residential,1 Story Brick Residence,858,25,123.25,"3,080",5347,Cote Brilliante
+45150005400,1942 Arlington Av,22,50,344,Residential,1.5 Story Frame Residence,858,20,201.65,"4,032",1942,Arlington
+45170505200,5341 Maffitt Av,22,50,344,Residential,2 Story Brick Residence,"1,326",42.33,155.43,"6,430",5341,Maffitt
+45200000200,3304 Semple Av,22,50,344,Residential,1.5 Story Frame Residence,816,27.5,172.16,"4,732",3304,Semple
+45200001300,3412 Semple Av,22,50,344,Residential,1 Story Frame Residence,957,50,173.42,"8,907",3412,Semple
+45200003100,3427 Arlington Av,22,50,344,Residential,2 Story Frame Residence,911,25,173.01,"3,949",3427,Arlington
+45200003600,3407 Arlington Av,22,50,344,Residential,2 Story Brick Residence,"1,342",30,173,"5,159",3407,Arlington
+45200004400,3315 Arlington Av,22,50,344,Residential,1 Story Frame Residence,945,25,180,"4,500",3315,Arlington
+45220001200,1932 Semple Av,22,50,344,Residential,1 Story Brick Residence,"1,179",30,170,"5,044",1932,Semple
+45230001300,2700 Semple Av,22,50,344,Residential,2 Story Frame Residence,847,25,172.66,"4,313",2700,Semple
+45230002700,2551 Arlington Av,22,50,344,Residential,2 Story Frame Residence,627,35,172.8,"6,042",2551,Arlington
+45240001200,2538 Belt Av,22,50,344,Residential,1 Story Frame Residence,"1,218",50,172.75,"8,371",2538,Belt
+45240003500,2537 Semple Av,22,50,344,Residential,1 Story Brick Residence,704,25,172.5,"4,312",2537,Semple
+45250002000,5462 Wabada Av,22,50,344,Residential,1 Story Stucco Residence,750,35,100,"4,020",5462,Wabada
+45250003500,1935 Semple Av,22,50,344,Residential,1 Story Brick Residence,"1,104",30,170,"5,100",1935,Semple
+48240000600,2734 Belt Av,22,50,344,Residential,1 Story Frame Residence,698,25,172.75,"4,318",2734,Belt
+48240001300,2806 Belt Av,22,50,344,Residential,1 Story Frame Residence,680,25,172.6,"4,417",2806,Belt
+48240001800,2822 Belt Av,22,50,344,Residential,1 Story Brick Residence,"1,320",50,172.75,"8,640",2822,Belt
+48240005300,2809 Semple Av,22,50,344,Residential,1 Story Brick Residence,"1,490",45,172.5,"7,763",2809,Semple
+48250000600,2740 Semple Av,22,50,344,Residential,1 Story Brick Residence,924,24,172.5,"4,140",2740,Semple
+48250001600,2832 Semple Av,22,50,344,Residential,2 Story Brick Residence,"1,010",38,172.7,"6,562",2832,Semple
+52380003700,5609 Labadie Av,22,50,345,Residential,1.5 Story Frame Residence,945,25,125.5,"3,144",5609,Labadie
+52380006600,5751 Labadie Av,22,50,345,Residential,1 Story Brick Residence,912,60,101,"3,529",5751,Labadie
+45280001800,5516 Wabada Av,22,50,346,Residential,1 Story Brick Residence,852,21.25,125,"2,650",5516,Wabada
+45310000400,1910 Clara Av,22,50,346,Residential,1 Story Brick Residence,"1,013",25,141.04,"3,525",1910,Clara
+45320003600,2533 Burd Av,22,50,346,Residential,1 Story Brick Residence,980,40,200,"7,420",2533,Burd
+45340002100,2828 Burd Av,22,50,346,Residential,1 Story Frame Residence,784,30,190,"5,825",2828,Burd
+45340002200,2832 Burd Av,22,50,346,Residential,1.5 Story Brick Residence,823,30,190,"6,087",2832,Burd
+45340005100,2823 Belt Av,22,50,346,Residential,1 Story Frame Residence,945,25,190,"4,750",2823,Belt
+48270008200,1606 Goodfellow Blvd,22,50,346,Residential,2 Story Brick Residence,"1,440",26.58,101.32,"3,129",1606,Goodfellow
+49140003700,5610 Wabada Av,22,50,346,Residential,1 Story Brick Residence,910,25,160,"4,073",5610,Wabada
+51990003900,5610 Highland Av,22,50,346,Residential,1.5 Story Frame Residence,737,25,105,"2,625",5610,Highland
+51990004900,5609 Wabada Av,22,50,346,Residential,1 Story Brick Residence,920,25,125,"3,081",5609,Wabada
+52000001800,5710 Kennerly Av,22,50,346,Residential,1 Story Frame Residence,919,37.5,105,"3,835",5710,Kennerly
+52010005300,5651 Kennerly Av,22,50,346,Residential,1 Story Frame Residence,706,27.6,105,"2,787",5651,Kennerly
+52010005900,5709 Kennerly Av,22,50,346,Residential,1 Story Frame Residence,793,50,105,"5,250",5709,Kennerly
+52010007100,5739 Kennerly Av,22,50,346,Residential,1 Story Frame Residence,851,25,105,"2,544",5739,Kennerly
+52020000100,5752 Terry Av,22,50,346,Residential,1 Story Frame Residence,691,30,131.1,"3,864",5752,Terry
+52430001800,5712 Roosevelt Pl,22,50,346,Residential,1 Story Frame Residence,797,25,117.5,"2,912",5712,Roosevelt
+52430002500,5658 Roosevelt Pl,22,50,346,Residential,1 Story Frame Residence,658,25,117.6,"2,981",5658,Roosevelt
+52430004500,2801 Clara Av,22,50,346,Residential,1 Story Frame Residence,"1,019",35.92,158.66,"5,699",2801,Clara
+52430006400,5711 Terry Av,22,50,346,Residential,1 Story Brick Residence,"1,080",30,135,"4,050",5711,Terry
+52440001300,5716 St Louis Av,22,50,346,Residential,1.5 Story Brick Residence,"1,075",30.6,136.75,"3,790",5716,St Louis
+52540000100,2712 Clara Av,22,50,346,Residential,1 Story Brick Residence,"1,153",49,108,"5,064",2712,Clara
+52540000500,5564 Powers Av,22,50,346,Residential,1.5 Story Brick Residence,792,35,108,"3,550",5564,Powers
+49910001100,5868 Cote Brilliante Av,22,50,347,Residential,2 Story Brick Residence,"1,320",25,117.8,"3,070",5868,Cote Brilliante
+49930002500,5816 Wabada Av,22,50,347,Residential,2 Story Brick Residence,"1,408",25,124.92,"2,958",5816,Wabada
+49950004700,5971 Highland Av,22,50,347,Residential,2 Story Brick Residence,"1,344",25.04,115.2,"2,884",5971,Highland
+49980003500,5921 Cote Brilliante Av,22,50,347,Residential,2 Story Brick Residence,"1,452",50,112.92,"5,678",5921,Cote Brilliante
+49980005100,5975 Cote Brilliante Av,22,50,347,Residential,2.5 Story Brick Residence,"1,496",25,112.88,"2,884",5975,Cote Brilliante
+50780000300,2617 Hodiamont Av,22,50,347,Residential,2 Story Brick Residence,"1,232",25,123.6,"3,087",2617,Hodiamont
+55520004700,5869 Highland Av,22,50,347,Residential,1.5 Story Brick Residence,"1,300",30,127.5,"3,825",5869,Highland
+37940000300,5228 Wells Av,26,51,238,Residential,2 Story Brick Residence,"1,408",25,206.4,"5,071",5228,Wells
+37970002000,1481 Union Blvd,26,78,239,Residential,1 Story Brick Residence,"1,286",25,180,"4,500",1481,Union
+53900002200,5742 Saloma Av,27,72,323,Residential,2 Story Frame Residence,630,50,127.5,"5,981",5742,Saloma
+53910100400,5752 Lillian Av,27,72,323,Residential,1 Story Frame Residence,850,50,127.5,"6,503",5752,Lillian
+53910101700,5709 Saloma Av,27,72,323,Residential,1 Story Frame Residence,868,50,127.5,"6,375",5709,Saloma
+54890001700,6311 Laura Av,27,76,323,Residential,1 Story Frame Residence,840,28,129.7,"3,904",6311,Laura
+54560000500,5716 Acme Av,27,76,324,Residential,1 Story Frame Residence,848,30,115,"3,450",5716,Acme
+54560002200,5755 Goodfellow Blvd,27,76,324,Residential,1.5 Story Brick Residence,"1,125",34.3,138.11,"7,904",5755,Goodfellow
+55910002500,5727 Mimika Av,27,76,324,Residential,1.5 Story Frame Residence,884,35,116.5,"4,080",5727,Mimika
+57890001400,5578 Era Av,27,76,324,Residential,1 Story Frame Residence,850,37,122.5,"4,532",5578,Era
+53430003000,6011 Harney Av,27,76,325,Residential,1 Story Frame Residence,836,25,125,"3,298",6011,Harney
+53430003350,6029 Harney Av,27,76,325,Residential,2 Story Frame Residence,870,50,125,"6,250",6029,Harney
+53440000500,6056 Harney Av,27,76,325,Residential,1 Story Frame Residence,684,25,125,"3,310",6056,Harney
+53440002400,6000 Harney Av,27,76,325,Residential,1 Story Frame Residence,"1,020",25,125,"3,201",6000,Harney
+53440003600,6033 Emma Av,27,76,325,Residential,1 Story Frame Residence,646,25,125,"2,972",6033,Emma
+53450001000,6040 Emma Av,27,76,325,Residential,2 Story Frame Residence,"1,080",25,125,"3,125",6040,Emma
+53450002000,6008 Emma Av,27,76,325,Residential,1 Story Frame Residence,798,25,125,"3,125",6008,Emma
+53450003300,6031 Lucille Av,27,76,325,Residential,1 Story Frame Residence,893,25,125,"3,268",6031,Lucille
+53450003400,6033 Lucille Av,27,76,325,Residential,1 Story Frame Residence,"1,188",25,125,"3,230",6033,Lucille
+53450003500,6037 Lucille Av,27,76,325,Residential,1.5 Story Frame Residence,832,50,125,"6,250",6037,Lucille
+53460000700,6050 Lucille Av,27,76,325,Residential,1 Story Frame Residence,874,25,125,"3,125",6050,Lucille
+53460003250,6033 Thekla Av,27,76,325,Residential,1 Story Brick Residence,760,25,125,"3,206",6033,Thekla
+53460003800,6051 Thekla Av,27,76,325,Residential,1 Story Frame Residence,608,25,125,"2,979",6051,Thekla
+53460004200,6065 Thekla Av,27,76,325,Residential,1 Story Brick Residence,"1,014",35,125,"4,386",6065,Thekla
+53470002200,6010 Thekla Av,27,76,325,Residential,1.5 Story Frame Residence,"1,499",50,125,"6,474",6010,Thekla
+53470003400,6037 Garesche Av,27,76,325,Residential,1 Story Frame Residence,798,25,125,"3,125",6037,Garesche
+53470003500,6039 Garesche Av,27,76,325,Residential,1 Story Frame Residence,798,25,125,"2,982",6039,Garesche
+53480002700,5919 Theodore Av,27,76,325,Residential,1 Story Frame Residence,760,25,125,"3,125",5919,Theodore
+53480002850,5927 Theodore Av,27,76,325,Residential,1 Story Brick Residence,864,25,125,"3,125",5927,Theodore
+53490001000,5972 Theodore Av,27,76,325,Residential,1 Story Brick Residence,817,25,125,"3,125",5972,Theodore
+53490003500,5925 Lalite Av,27,76,325,Residential,1 Story Frame Residence,672,25,125,"3,049",5925,Lalite
+53490004600,5973 Lalite Av,27,76,325,Residential,1.5 Story Frame Residence,588,30,125,"3,740",5973,Lalite
+53500001000,5948 Lalite Av,27,76,325,Residential,1 Story Frame Residence,"1,134",40,125,"5,000",5948,Lalite
+53500001700,5922 Lalite Av,27,76,325,Residential,1 Story Brick Residence,642,25,125,"3,011",5922,Lalite
+53500003900,5969 Sherry Av,27,76,325,Residential,2 Story Frame Residence,"1,008",50,125,"6,250",5969,Sherry
+53520001200,5916 Laura Av,27,76,325,Residential,1 Story Frame Residence,640,25,120,"3,000",5916,Laura
+53560000900,5922 Thekla Av,27,76,325,Residential,2 Story Frame Residence,774,25,125,"3,064",5922,Thekla
+53580001000,5936 Emma Av,27,76,325,Residential,2 Story Frame Residence,"1,334",50,125,"6,250",5936,Emma
+53590000700,5952 Harney Av,27,76,325,Residential,1 Story Frame Residence,608,25,125,"3,146",5952,Harney
+53590002900,5925 Emma Av,27,76,325,Residential,1 Story Brick Residence,945,25,125,"3,125",5925,Emma
+53600004300,5967 Harney Av,27,76,325,Residential,1 Story Frame Residence,840,24.6,125,"2,958",5967,Harney
+54910000200,6176 Laura Av,27,76,325,Residential,1 Story Frame Residence,792,30,116.66,"3,282",6176,Laura
+57840000100,5616 Hiller Pl,27,76,325,Residential,1 Story Brick Residence,924,25,103.48,"2,016",5616,Hiller
+57860000200,5624 Mimika Av,27,76,325,Residential,1.5 Story Brick Residence,726,45,110.11,"4,892",5624,Mimika
+52910000800,4922 Beacon Av,27,72,326,Residential,1 Story Frame Residence,891,30,121.92,"3,930",4922,Beacon
+52930004500,4911 Emerson Av,27,72,326,Residential,2 Story Frame Residence,"1,051",30,125,"4,019",4911,Emerson
+53170000500,4706 Beacon Av,27,72,326,Residential,1 Story Frame Residence,738,30,121.96,"3,658",4706,Beacon
+53170001300,4730 Beacon Av,27,72,326,Residential,2 Story Frame Residence,990,30,121,"3,738",4730,Beacon
+53170002720,4772 Beacon Av,27,72,326,Residential,2 Story Frame Residence,686,30,121.96,"3,658",4772,Beacon
+53180000500,4532 Davison Av,27,72,326,Residential,1 Story Brick Residence,868,25,125,"3,357",4532,Davison
+53180000700,4538 Davison Av,27,72,326,Residential,2 Story Brick Residence,855,25,125,"3,125",4538,Davison
+53200002050,4972 Genevieve Av,27,72,326,Residential,1 Story Frame Residence,912,30,125,"3,868",4972,Genevieve
+53200002800,4961 Beacon Av,27,72,326,Residential,1 Story Brick Residence,696,25,125,"3,125",4961,Beacon
+53970000400,4912 Plover Av,27,72,326,Residential,1 Story Frame Residence,572,30,138.5,"4,155",4912,Plover
+53980001300,4950 Wren Av,27,72,326,Residential,1 Story Brick Residence,"1,277",50,138.5,"6,885",4950,Wren
+54830000700,4718 Plover Av,27,72,326,Residential,1 Story Brick Residence,694,45,138.5,"6,004",4718,Plover
+54830002700,4771 Thrush Av,27,72,326,Residential,1 Story Frame Residence,857,30,138,"4,140",4771,Thrush
+55490003200,4761 Plover Av,27,72,326,Residential,1 Story Frame Residence,720,30,138.5,"3,821",4761,Plover
+55590000100,4900 Arlington Av,27,71,326,Residential,1 Story Brick Residence,"1,250",30,125,"3,326",4900,Arlington
+55590003600,4933 Claxton Av,27,71,326,Residential,2 Story Frame Residence,"1,088",25,125,"3,128",4933,Claxton
+56710001000,4712 Genevieve Av,27,72,326,Residential,2 Story Frame Residence,918,30,125,"3,750",4712,Genevieve
+56710002300,4752 Genevieve Av,27,72,326,Residential,1 Story Frame Residence,980,30,125,"3,750",4752,Genevieve
+56720103000,4776 Thrush Av,27,72,326,Residential,1 Story Frame Residence,"1,032",30,125,"3,697",4776,Thrush
+56720104000,4751 Genevieve Av,27,72,326,Residential,2 Story Frame Residence,864,30,125,"3,914",4751,Genevieve
+56720105300,4709 Genevieve Av,27,72,326,Residential,2 Story Frame Residence,904,30,125,"3,750",4709,Genevieve
+50820002400,5476 Claxton Av,27,71,327,Residential,1 Story Brick Residence,819,30,125,"3,807",5476,Claxton
+51210003000,5249 Plover Av,27,72,327,Residential,1 Story Frame Residence,840,50,138.5,"6,995",5249,Plover
+51230001400,5252 Gilmore Av,27,72,327,Residential,1 Story Frame Residence,720,50,138.6,"6,938",5252,Gilmore
+51270000700,5424 Gilmore Av,27,72,327,Residential,1 Story Frame Residence,797,50,138.5,"7,873",5424,Gilmore
+51270001200,5448 Gilmore Av,27,72,327,Residential,1 Story Brick Residence,722,25,138.5,"3,463",5448,Gilmore
+51280001300,5454 Oriole Av,27,72,327,Residential,1 Story Frame Residence,968,29,140,"3,701",5454,Oriole
+51280001600,5462 Oriole Av,27,72,327,Residential,1 Story Frame Residence,912,30,140,"4,200",5462,Oriole
+51280001800,5468 Oriole Av,27,72,327,Residential,2 Story Frame Residence,954,30,140,"3,995",5468,Oriole
+51280002300,5475 Gilmore Av,27,72,327,Residential,1 Story Brick Residence,816,37.5,138.5,"4,265",5475,Gilmore
+51290001000,5434 Partridge Av,27,72,327,Residential,1 Story Brick Residence,"1,045",50,140,"7,000",5434,Partridge
+51350001650,5541 Gilmore Av,27,72,327,Residential,1 Story Brick Residence,"1,125",54.75,50,"2,737",5541,Gilmore
+51380001900,5056 Alcott Av,27,72,327,Residential,1 Story Frame Residence,511,25,125,"3,125",5056,Alcott
+51380003400,5053 Emerson Av,27,72,327,Residential,2 Story Frame Residence,912,40,125,"4,492",5053,Emerson
+52320002000,5056 Beacon Av,27,72,327,Residential,1 Story Brick Residence,805,50,121.1,"5,987",5056,Beacon
+52320003500,5037 Davison Av,27,72,327,Residential,1 Story Frame Residence,664,30,121.5,"3,787",5037,Davison
+53220001100,5048 Thrush Av,27,72,327,Residential,1 Story Frame Residence,864,30,125,"3,750",5048,Thrush
+53220002500,5059 Genevieve Av,27,72,327,Residential,1 Story Frame Residence,648,37.5,125,"4,687",5059,Genevieve
+53220002900,5045 Genevieve Av,27,72,327,Residential,1 Story Frame Residence,691,30,125,"3,750",5045,Genevieve
+53230002000,5070 Genevieve Av,27,72,327,Residential,1 Story Brick Residence,820,25,125,"3,354",5070,Genevieve
+53230002500,5071 Beacon Av,27,72,327,Residential,1 Story Frame Residence,836,25,125,"3,266",5071,Beacon
+53230003400,5037 Beacon Av,27,72,327,Residential,1 Story Frame Residence,768,30,125,"3,856",5037,Beacon
+53230004100,5015 Beacon Av,27,72,327,Residential,1 Story Frame Residence,"1,128",30,125,"3,750",5015,Beacon
+53230004200,5011 Beacon Av,27,72,327,Residential,1 Story Frame Residence,868,30,125,"3,468",5011,Beacon
+53300000800,5324 Emerson Av,27,71,327,Residential,1 Story Brick Residence,816,28,122.42,"3,428",5324,Emerson
+53300001400,5344 Emerson Av,27,71,327,Residential,1 Story Brick Residence,"1,364",30,121.9,"3,659",5344,Emerson
+53940002000,5138 Robin Av,27,72,327,Residential,1 Story Brick Residence,"1,005",25,138,"1,800",5138,Robin
+53940003200,5017 Wren Av,27,72,327,Residential,1 Story Frame Residence,760,25,138.6,"3,209",5017,Wren
+53950000700,5032 Wren Av,27,72,327,Residential,2 Story Frame Residence,"1,440",50,138.6,"6,849",5032,Wren
+53950002200,5041 Plover Av,27,72,327,Residential,1 Story Frame Residence,816,30,138.5,"4,155",5041,Plover
+53950002700,5015 Plover Av,27,72,327,Residential,1 Story Frame Residence,"1,000",50,138.5,"6,532",5015,Plover
+53960003100,5007 Thrush Av,27,72,327,Residential,1 Story Frame Residence,798,50,138.28,"6,912",5007,Thrush
+54140001900,5342 Oriole Av,27,72,327,Residential,2 Story Frame Residence,"1,056",30,136.16,"4,080",5342,Oriole
+54140003200,5247 Gilmore Av,27,72,327,Residential,1.5 Story Stucco Residence,864,25,142.33,"3,558",5247,Gilmore
+55250000600,5518 Genevieve Av,27,72,327,Residential,1 Story Frame Residence,779,25,125,"3,125",5518,Genevieve
+55270002500,5454 Beacon Av,27,72,327,Residential,1 Story Frame Residence,640,50,121.5,"6,176",5454,Beacon
+55270002700,5462 Beacon Av,27,72,327,Residential,2 Story Brick Residence,648,25,121.5,"2,772",5462,Beacon
+55270003000,5476 Beacon Av,27,72,327,Residential,1 Story Brick Residence,760,25,121.5,"3,173",5476,Beacon
+55280000400,5412 Genevieve Av,27,72,327,Residential,1 Story Brick Residence,"1,012",25,125,"3,086",5412,Genevieve
+55280003200,5473 Beacon Av,27,72,327,Residential,1 Story Frame Residence,800,25,125,"3,125",5473,Beacon
+55290003200,5459 Genevieve Av,27,72,327,Residential,1 Story Brick Residence,760,25,125,"3,530",5459,Genevieve
+55290003800,5443 Genevieve Av,27,72,327,Residential,1 Story Brick Residence,864,25,125,"3,125",5443,Genevieve
+55290004200,5433 Genevieve Av,27,72,327,Residential,1 Story Brick Residence,740,25,125,"3,122",5433,Genevieve
+55300004600,5223 Genevieve Av,27,72,327,Residential,1 Story Brick Residence,800,25,125,"3,073",5223,Genevieve
+55300005000,5209 Genevieve Av,27,72,327,Residential,1.5 Story Frame Residence,576,25,125,"3,125",5209,Genevieve
+55310000900,5230 Genevieve Av,27,72,327,Residential,1 Story Brick Residence,672,25,125,"3,222",5230,Genevieve
+55310002400,5278 Genevieve Av,27,72,327,Residential,1 Story Brick Residence,"1,012",25,125,"3,681",5278,Genevieve
+55320001800,5262 Beacon Av,27,72,327,Residential,1 Story Frame Residence,900,25,121.3,"3,030",5262,Beacon
+55320001900,5264 Beacon Av,27,72,327,Residential,2 Story Frame Residence,"1,496",25,121.3,"3,032",5264,Beacon
+55560001000,5024 Emerson Av,27,71,327,Residential,1 Story Frame Residence,836,25,122.25,"3,056",5024,Emerson
+55560001200,5028 Emerson Av,27,71,327,Residential,1.5 Story Frame Residence,774,37.6,123.2,"4,337",5028,Emerson
+55560001300,5032 Emerson Av,27,71,327,Residential,1 Story Frame Residence,969,37.5,123.16,"4,474",5032,Emerson
+55560002700,5076 Emerson Av,27,71,327,Residential,2 Story Frame Residence,872,37.5,122.5,"4,594",5076,Emerson
+55560004900,5063 Arlington Av,27,71,327,Residential,1.5 Story Frame Residence,"1,240",50,125,"6,250",5063,Arlington
+55560005700,5035 Arlington Av,27,71,327,Residential,1.5 Story Brick Residence,"1,266",25,129,"3,225",5035,Arlington
+55570000950,5028 Arlington Av,27,71,327,Residential,1 Story Brick Residence,"1,200",37.6,125,"4,501",5028,Arlington
+55570001000,5032 Arlington Av,27,71,327,Residential,1 Story Brick Residence,"1,200",37.6,125,"4,599",5032,Arlington
+55570003900,5079 Claxton Av,27,71,327,Residential,1 Story Frame Residence,560,25,125,"3,001",5079,Claxton
+55570004800,5055 Claxton Av,27,71,327,Residential,1 Story Frame Residence,967,25,125,"3,125",5055,Claxton
+55570005500,5035 Claxton Av,27,71,327,Residential,1 Story Brick Residence,844,25,125,"3,125",5035,Claxton
+55570005800,5027 Claxton Av,27,71,327,Residential,1.5 Story Frame Residence,760,25,125,"3,178",5027,Claxton
+55680002200,5270 Alcott Av,27,72,327,Residential,2 Story Brick Residence,"1,080",30,125,"3,750",5270,Alcott
+55680003400,5251 Emerson Av,27,72,327,Residential,1 Story Brick Residence,840,30,125,"3,750",5251,Emerson
+55680003500,5249 Emerson Av,27,72,327,Residential,1 Story Brick Residence,960,30,125,"3,750",5249,Emerson
+55690000100,5202 Davison Av,27,72,327,Residential,2 One Story Frame Residences,936,45,125,"5,300",5202,Davison
+55690000200,5204 Davison Av,27,72,327,Residential,1 Story Frame Residence,768,30,125,"3,750",5204,Davison
+55690000400,5210 Davison Av,27,72,327,Residential,1.5 Story Frame Residence,720,30,125,"3,750",5210,Davison
+55690000500,5214 Davison Av,27,72,327,Residential,1 Story Frame Residence,768,30,125,"3,612",5214,Davison
+56310000400,5516 Alcott Av,27,72,327,Residential,1 Story Frame Residence,841,30,125,"3,750",5516,Alcott
+56310001100,5540 Alcott Av,27,72,327,Residential,1 Story Frame Residence,912,30,125,"3,750",5540,Alcott
+56310001300,5420 W Florissant Av,27,72,327,Residential,1.5 Story Frame Residence,988,35,125,"4,513",5420,Florissant
+56320001900,5541 Alcott Av,27,72,327,Residential,1 Story Brick Residence,944,30,125,"4,435",5541,Alcott
