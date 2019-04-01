@@ -36,3 +36,7 @@ nav li {
   border: 1px solid black;
   float: right;
 }
+
+thead, th {
+  font-weight: bold;
+}
