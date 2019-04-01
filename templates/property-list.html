@@ -1,0 +1,34 @@
+{% extends 'base.html' %}
+
+{% block title %}Property List{% endblock %}
+
+{% block content %}
+<div class="table-responsive">
+  <table class="table table-hover">
+    <thead class="thead-dark">
+      <tr>
+        {% for key, value in properties[0].items() %}
+          <th scope="col">{{ key }}</th>
+        {% endfor %}
+      </tr>
+    </thead>
+    <tbody>
+    {% for prop in properties %}
+      {% if prop['Removed'] == True %}
+      <tr style="text-decoration: line-through;">
+      {% else %}
+      <tr>
+      {% endif %}
+        {% for key, value in prop.items() %}
+        {% if key == 'ParcelID' %}
+        <td><a href="property/{{prop['ParcelID']}}">{{value}}</a></td>
+        {% else %}
+        <td>{{value}}</td>
+        {% endif %}
+        {% endfor %}
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endblock %}
