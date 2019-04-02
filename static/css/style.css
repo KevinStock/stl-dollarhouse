@@ -14,6 +14,7 @@ html, body {
 .container {
   height: 100%;
   width: 100%;
+  padding: 0;
 }
 
 nav {
@@ -43,15 +44,11 @@ thead, th {
 
 .removed {
   text-decoration: line-through;
-  background-color: red;
+  background-color: lightpink;
 }
 
 .new {
-  background-color: green;
-}
-
-#content {
-  margin: 10px;
+  background-color: lightgreen;
 }
 
 .sm-container {
