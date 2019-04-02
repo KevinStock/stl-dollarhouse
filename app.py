@@ -24,7 +24,18 @@ def map():
     properties.append(prop)
   return render_template('map.html',
                          gkey=gkey,
-                         properties=properties)
+                         properties=properties,
+                         title='Map of Available Properties')
+
+@app.route('/map-removed')
+def map_removed():
+  properties = []
+  for prop in db.locations.find({'DateRemoved': {'$ne': ''}}):
+    properties.append(prop)
+  return render_template('map.html',
+                         gkey=gkey,
+                         properties=properties,
+                         title='Map of Removed Properties')
 
 # displays table of all properties that have been made available since inception
 @app.route('/property-list')
