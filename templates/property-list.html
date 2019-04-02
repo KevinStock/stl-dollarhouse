@@ -7,23 +7,23 @@
   <table class="table table-hover">
     <thead class="thead-dark">
       <tr>
-        {% for key, value in properties[0].items() %}
-          <th scope="col">{{ key }}</th>
+        {% for column in columns %}
+          <th scope="col">{{ column }}</th>
         {% endfor %}
       </tr>
     </thead>
     <tbody>
     {% for prop in properties %}
-      {% if prop['Removed'] == True %}
+      {% if prop['DateRemoved'] != '' %}
       <tr style="text-decoration: line-through;">
       {% else %}
       <tr>
       {% endif %}
-        {% for key, value in prop.items() %}
-        {% if key == 'ParcelID' %}
-        <td><a href="property/{{prop['ParcelID']}}">{{value}}</a></td>
+      {% for column in columns %}
+        {% if column == 'ParcelID' %}
+        <td><a href="property/{{prop['ParcelID']}}">{{prop[column]}}</a></td>
         {% else %}
-        <td>{{value}}</td>
+        <td>{{prop[column]}}</td>
         {% endif %}
         {% endfor %}
       </tr>
