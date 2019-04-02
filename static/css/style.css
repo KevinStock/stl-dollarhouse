@@ -40,3 +40,12 @@ nav li {
 thead, th {
   font-weight: bold;
 }
+
+.removed {
+  text-decoration: line-through;
+  background-color: red;
+}
+
+.new {
+  background-color: green;
+}

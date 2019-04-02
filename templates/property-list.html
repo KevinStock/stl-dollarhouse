@@ -15,7 +15,9 @@
     <tbody>
     {% for prop in properties %}
       {% if prop['DateRemoved'] != '' %}
-      <tr style="text-decoration: line-through;">
+      <tr class="removed">
+      {% elif prop['DateAdded'] == '2019-04-01' %}
+      <tr class="new">
       {% else %}
       <tr>
       {% endif %}
