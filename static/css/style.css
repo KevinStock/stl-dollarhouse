@@ -53,3 +53,14 @@ thead, th {
 #content {
   margin: 10px;
 }
+
+.sm-container {
+  width: 400px;
+  height: 400px;
+  float: left;
+  margin: 10px;
+}
+
+.table-responsive {
+  clear: both;
+}

@@ -8,8 +8,14 @@
     {% if 'Error' in prop %}
       <h1> Property Not Found</h1>
     {% else %}
+    <div class='sm-container'>
+      <img src="https://maps.googleapis.com/maps/api/streetview?size=400x400&key={{gkey}}&location={{prop['Latitude']}},{{prop['Longitude']}}">
+    </div>
+    <div class='sm-container'>
+      <div id='map'>
+      </div>
+    </div>
 
-    <img src="https://maps.googleapis.com/maps/api/streetview?size=400x400&key={{gkey}}&location={{prop['Latitude']}},{{prop['Longitude']}}">
     <div class="table-responsive">
       <table class="table table-hover">
         <tbody>
@@ -25,4 +31,31 @@
   {% endfor %}
     </div>
 </div>
+<script>
+  // initialize map with markers
+  var map;
+  function initMap() {
+  map = new google.maps.Map(document.getElementById('map'), {
+    center: {
+      lat: 38.6272700,
+      lng: -90.1978900
+    },
+    zoom: 15
+  });
+  {% for prop in propertyDetail %}
+    var parcelID = '{{ prop['ParcelID'] }}';
+    var address = '{{ prop['Address'] }}';
+    var Lat = '{{ prop['Latitude'] }}';
+    var Lng = '{{ prop['Longitude'] }}';
+    var latLng = new google.maps.LatLng(Lat, Lng);
+    var marker = new google.maps.Marker({
+      position: latLng,
+      map: map,
+      title: address
+    });
+  {% endfor %}
+  map.setCenter(latLng);
+  }
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key={{gkey}}&callback=initMap" async defer></script>
 {% endblock %}
