@@ -49,3 +49,7 @@ thead, th {
 .new {
   background-color: green;
 }
+
+#content {
+  margin: 10px;
+}
