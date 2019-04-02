@@ -8,7 +8,7 @@
 html, body {
   height: 100%;
   margin: 0;
-  padding: 0;
+  padding-top: 50px;
 }
 
 .container {
@@ -17,33 +17,6 @@ html, body {
   padding: 0;
 }
 
-nav {
-  top: 0;
-  height: 50px;
-  width: 100%;
-}
-
-nav h1 {
-  display: inline-block;
-  margin: 0;
-  padding: 0;
-  float: right;
-  overflow: hidden;
-}
-nav ul {
-  display: inline-block;
-  list-style: none;
-}
-
-nav li {
-  width: 150px;
-  height: 100%;
-  margin: 10px;
-  background-color: lightgray;
-  text-align: center;
-  border: 1px solid black;
-  float: right;
-}
 
 thead, th {
   font-weight: bold;
