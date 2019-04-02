@@ -18,8 +18,12 @@ html, body {
 }
 
 nav {
+  background-color: ghostwhite;
+  z-index: 1;
+  top: 0;
   height: 50px;
   width: 100%;
+  position: fixed;
 }
 
 nav ul {
@@ -40,6 +44,13 @@ nav li {
 
 thead, th {
   font-weight: bold;
+}
+
+#content {
+  margin-top: 50px;
+  height: 100%;
+  width: 100%;
+  padding: 0;
 }
 
 .removed {
