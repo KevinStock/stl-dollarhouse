@@ -36,8 +36,8 @@ def propertyList():
 # shows individual property details
 @app.route('/property/<propertyID>')
 def propertyDetails(propertyID):
-  propertyDetail = db.locations.find({'ParcelID': int(propertyID)})
-  if (propertyDetail.count() == 0):
+  propertyDetail = list(db.locations.find({'ParcelID': int(propertyID)}))
+  if (len(propertyDetail) == 0):
     propertyDetail = {'Error': 'Property Not Found'}
   return render_template('property-detail.html',
                          gkey=gkey,
