@@ -18,12 +18,9 @@ html, body {
 }
 
 nav {
-  background-color: ghostwhite;
-  z-index: 1;
   top: 0;
   height: 50px;
   width: 100%;
-  position: fixed;
 }
 
 nav h1 {
@@ -53,7 +50,6 @@ thead, th {
 }
 
 #content {
-  margin-top: 50px;
   height: 100%;
   width: 100%;
   padding: 0;
