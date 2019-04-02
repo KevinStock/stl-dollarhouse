@@ -26,6 +26,13 @@ nav {
   position: fixed;
 }
 
+nav h1 {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  float: right;
+  overflow: hidden;
+}
 nav ul {
   display: inline-block;
   list-style: none;
@@ -35,7 +42,6 @@ nav li {
   width: 150px;
   height: 100%;
   margin: 10px;
-  
   background-color: lightgray;
   text-align: center;
   border: 1px solid black;
