@@ -4,6 +4,11 @@
 
 {% block content %}
 {% for prop in propertyDetail %}
+{% if 'Error' in prop %}
+<h1>
+  Property Not Found
+</h1>
+{% else %}
 <img src="https://maps.googleapis.com/maps/api/streetview?size=400x400&key={{gkey}}&location={{prop['Latitude']}},{{prop['Longitude']}}">
 <div class="table-responsive">
   <table class="table table-hover">
@@ -18,6 +23,7 @@
 
     </tbody>
   </table>
+  {% endif %}
 {% endfor %}
 </div>
 {% endblock %}
