@@ -39,11 +39,14 @@ for prop in getProperties():
   if isProperty(prop) == False:
     newProperties.append(prop)
 
-# collect removed properties
+# collect removed and exisiting properties
 removedProperties = []
+exisitingProperties = []
 for doc in db.locations.find():
   if removedProperty(doc) == True:
     removedProperties.append(doc)
+  else:
+    exisitingProperties.append(doc)
       
 # check if property in new list already exists
 def isProperty(location):
