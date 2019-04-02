@@ -3,17 +3,21 @@
 {% block title %}Property Detail{% endblock %}
 
 {% block content %}
-<img src="https://maps.googleapis.com/maps/api/streetview?size=400x400&key={{gkey}}&location={{propertyDetail['Latitude']}},{{propertyDetail['Longitude']}}">
+{% for prop in propertyDetail %}
+<img src="https://maps.googleapis.com/maps/api/streetview?size=400x400&key={{gkey}}&location={{prop['Latitude']}},{{prop['Longitude']}}">
 <div class="table-responsive">
   <table class="table table-hover">
     <tbody>
-      {% for key, value in propertyDetail.items() %}
-        <tr>
-          <th>{{key}}</th>
-          <td>{{value}}</td>
-        </tr>
-      {% endfor %}
+
+        {% for column in columns %}
+          <tr>
+            <th>{{column}}</th>
+            <td>{{prop[column]}}</td>
+          </tr>
+        {% endfor %}
+
     </tbody>
   </table>
+{% endfor %}
 </div>
 {% endblock %}
