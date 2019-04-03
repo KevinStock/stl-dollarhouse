@@ -7,23 +7,14 @@
 /* Optional: Makes the sample page fill the window. */
 html, body {
   height: 100%;
-  margin: 0;
-  padding-top: 50px;
 }
-
-.container {
-  height: 100%;
-  width: 100%;
-  padding: 0;
-}
-
 
 thead, th {
   font-weight: bold;
 }
 
 #content {
-  height: 100%;
+  height: calc(100% - 56px);
   width: 100%;
   padding: 0;
 }
